@@ -1,9 +1,7 @@
 ---
 layout: page
 title: zhangvalue's Projects
-excerpt: "A List of Projects"
 tags: [html/css js/jq Echarts vue bootstrap]
-date: 2019
 comments: false
 
 ---
