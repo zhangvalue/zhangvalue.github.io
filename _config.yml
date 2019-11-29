@@ -9,7 +9,7 @@ logo:               'assets/img/ice.jpg'
 background:         'assets/img/placeholder_big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://zhangvalue.github.io/zhangvalue.github.io/
+url:                https://zhangvalue.github.io
 
 # Jekyll
 permalink:          /:title/
