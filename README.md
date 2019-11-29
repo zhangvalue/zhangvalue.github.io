@@ -1,6 +1,6 @@
 # zhangvalue 的个人网站  
     
-<a href="https://zhangvalue.github.io/zhangvalue.github.io/ "  target="_blank" >个人网站传送门</a> 
+<a href="https://zhangvalue.github.io"  target="_blank" >个人网站传送门</a> 
 
 
 
