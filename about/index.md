@@ -8,7 +8,7 @@ comments: false
 ---
  
 <center>zhangvalue</center>
-<center> 研究生 | 软件工程</center>
+<center> BJUT-研究生 | 软件工程</center>
 <center>zhangvalue@gmail.com</center>
 
 ---
@@ -27,24 +27,21 @@ comments: false
 ---
  
  
-## JD （ 2019年10月 ~ 至今 ）
+## 京东 （ 2019年10月 ~ 至今 ）
 ### 前言
-实习
+Java开发实习
 
+---
+ 
+## 美团点评 （ 2019年6月 ~ 2019年9月 ）
+### 前言
+数据研发实习生
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+---
+ 
+## 凤凰网 （ 2019年2月 ~ 2019年5月 ）
+### 前言
+Java爬虫实习生
 
 ---
 
